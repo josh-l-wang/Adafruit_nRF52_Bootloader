@@ -36,11 +36,7 @@
 #define LED_PRIMARY_PIN       _PINNUM(0, 29)
 #define LED_STATE_ON          1
 
-<<<<<<< HEAD
 #define LED_NEOPIXEL          _PINNUM(1, 9)
-=======
-#define LED_NEOPIXEL          _PINNUM(1, 09)
->>>>>>> 64ac9c0 (added Altar and wlpad)
 #define NEOPIXELS_NUMBER      1
 #define BOARD_RGB_BRIGHTNESS  0x040404
 
@@ -59,8 +55,7 @@
 =======
 #define BUTTONS_NUMBER    2
 #define BUTTON_1          _PINNUM(0, 18)  // RESET
-#define BUTTON_2          _PINNUM(1, 07)  // unconnected
->>>>>>> c6a76b4 (fixed wlpad missing button)
+#define BUTTON_2          _PINNUM(1, 7)  // unconnected
 #define BUTTON_PULL       NRF_GPIO_PIN_PULLUP
 
 //--------------------------------------------------------------------+
