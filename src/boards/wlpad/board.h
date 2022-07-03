@@ -43,8 +43,9 @@
 /*------------------------------------------------------------------*/
 /* BUTTON
  *------------------------------------------------------------------*/
-#define BUTTONS_NUMBER    1  // none connected at all
-#define BUTTON_1          _PINNUM(0, 18)  // unusable: RESET
+#define BUTTONS_NUMBER    2
+#define BUTTON_1          _PINNUM(0, 18)  // RESET
+#define BUTTON_2          _PINNUM(1, 07)  // unconnected
 #define BUTTON_PULL       NRF_GPIO_PIN_PULLUP
 
 //--------------------------------------------------------------------+
