@@ -43,16 +43,6 @@
 /*------------------------------------------------------------------*/
 /* BUTTON
  *------------------------------------------------------------------*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-#define BUTTONS_NUMBER    2
-#define BUTTON_1          _PINNUM(0, 18)  // RESET
-#define BUTTON_2          _PINNUM(1, 7)  // unconnected
-=======
-#define BUTTONS_NUMBER    1  // none connected at all
-#define BUTTON_1          _PINNUM(0, 18)  // unusable: RESET
->>>>>>> 64ac9c0 (added Altar and wlpad)
-=======
 #define BUTTONS_NUMBER    2
 #define BUTTON_1          _PINNUM(0, 18)  // RESET
 #define BUTTON_2          _PINNUM(1, 7)  // unconnected
