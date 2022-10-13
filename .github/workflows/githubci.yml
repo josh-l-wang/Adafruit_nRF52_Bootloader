@@ -59,6 +59,7 @@ jobs:
           #- 'waveshare_nrf52840_eval'
           - 'Altar'
           - 'wlpad'
+          - 'osprey'
 
     steps:
     - name: Setup Python
