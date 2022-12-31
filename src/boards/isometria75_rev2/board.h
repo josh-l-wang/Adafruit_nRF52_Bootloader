@@ -58,7 +58,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x0029
 
 #define UF2_PRODUCT_NAME    "Isometria 75 Rev 2"
-#define UF2_VOLUME_LABEL    "Isometria_75_Rev2"
+#define UF2_VOLUME_LABEL    "ISOMETRIA75"
 #define UF2_BOARD_ID        "Isometria 75 Rev 2"
 #define UF2_INDEX_URL       "https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52840-DK"
 
