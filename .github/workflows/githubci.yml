@@ -60,6 +60,7 @@ jobs:
           - 'Altar'
           - 'wlpad'
           - 'osprey'
+          - 'isometria75_rev2'
 
     steps:
     - name: Setup Python
