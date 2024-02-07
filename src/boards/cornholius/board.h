@@ -58,7 +58,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x0029
 
 #define UF2_PRODUCT_NAME  "cornholius_rev_a"
-#define UF2_VOLUME_LABEL  "CORNHOLIUS_A"
+#define UF2_VOLUME_LABEL  "CRNHLS_A"
 #define UF2_BOARD_ID      "cornholius_rev_a"
 #define UF2_INDEX_URL     "https://social.mpwr.xyz"
 
