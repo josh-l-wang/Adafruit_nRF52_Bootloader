@@ -66,6 +66,7 @@ jobs:
           - 'wlpad'
           - 'osprey'
           - 'isometria75_rev2'
+          - 'cornholius'
                     
     steps:
     - name: Setup Python
